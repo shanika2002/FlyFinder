@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FlyFinder</string>
+    <string name="flight">Flight</string>
+    <string name="hotel">Hotel</string>
+    <string name="car">Car</string>
+    <string name="train">Train</string>
+    <string name="explore_destination">Explore destination</string>
+    <string name="best_offers">Best Offers</string>
+    <string name="round_trip">round trip</string>
+    <string name="multi_city">multi city</string>
+    <string name="one_way">one way</string>
+    <string name="location">Location</string>
+    <string name="destination">Destination</string>
+    <string name="passenger">Passenger</string>
+    <string name="air_uk">AIR UK</string>
+    <string name="home">Home</string>
+    <string name="search_flight">Search Flight</string>
+    <string name="profile">Profile</string>
+    <string name="notification">Notification</string>
+    <string name="help_and_support">Help and Support</string>
+    <string name="setting">Setting</string>
+    <string name="edit_photo">Edit Photo</string>
+    <string name="first_name">First Name :</string>
+    <string name="last_name">Last Name :</string>
+    <string name="email">Email :</string>
+    <string name="dob">DOB :</string>
+    <string name="age">Age :</string>
+    <string name="phone">Phone :</string>
+    <string name="password">Password :</string>
+    <string name="edit">Edit</string>
+</resources>
+

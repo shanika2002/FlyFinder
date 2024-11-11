@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FlightBookingApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".HomePageMenu"
+            android:exported="false" />
+        <activity
+            android:name=".NavigationDrawerBottom"
+            android:exported="false" />
+        <activity
+            android:name=".VerifyPasswordPage"
+            android:exported="false" />
+        <activity
+            android:name=".ForgetPasswordPage"
+            android:exported="false" />
+        <activity
+            android:name=".EditProfilePage"
+            android:exported="false" />
+        <activity
+            android:name=".ProfilePage"
+            android:exported="false" />
+        <activity
+            android:name=".BoardingPassPage"
+            android:exported="false" />
+        <activity
+            android:name=".PaymentPage"
+            android:exported="false" />
+        <activity
+            android:name=".SelectingPage"
+            android:exported="false" />
+        <activity
+            android:name=".BookingPage"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpPage"
+            android:exported="false" />
+        <activity
+            android:name=".HomePage"
+            android:exported="false" />
+        <activity
+            android:name=".SignInPage"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdOnboard"
+            android:exported="false" />
+        <activity
+            android:name=".SecondOnboard"
+            android:exported="false" />
+        <activity
+            android:name=".FirstOnboard"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

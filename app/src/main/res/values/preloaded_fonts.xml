@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abeezee</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/angkor</item>
+        <item>@font/anton</item>
+        <item>@font/ar_one_sans</item>
+        <item>@font/ar_one_sans_bold</item>
+        <item>@font/ar_one_sans_medium</item>
+        <item>@font/ar_one_sans_semibold</item>
+        <item>@font/archivo_black</item>
+        <item>@font/asset</item>
+        <item>@font/bevan</item>
+        <item>@font/goblin_one</item>
+    </array>
+</resources>
